@@ -14,8 +14,27 @@ To create a group, click the "+ GROUP" button in the top-right of the plugin sid
 
 ## Customizing a group
 
-Choose from any of the 270 icons (from the in-game clan ranks icons) to represent a group, as well as any color you'd like for the label border/background to be made up of.
+You can choose from any of 270 built-in icons to represent your group, making it show up next to item names in the labels. If you don't choose an icon, or click "NO ICON" in the icon dropdown, that group's items won't have an icon.
 
 <p align="center">
   <img src="docs/icons-grid.png" alt="All 270 icons that can be picked for a group" width="100%">
+</p>
+
+You can also choose any color for the group, which will make up the border and background fill of the labels. Clicking the color swatch will open up a color-picking popup for you to select your desired color.
+
+## Adding items
+
+You can add an item to a group by either 1) clicking the "+ ITEM" button in the group box and typing in the name (wildcards accepted via `*`), or 2) shift-right-clicking an item on the ground or your inventory and hovering over the "Add to Loot Labels" option, then selecting a group for it to go in.
+
+## Filtering items
+
+Once you've added an item into a group, you can make it so that labels only show up for that item if one or multiple conditions are met. By clicking the icons next to the item name, you can filter items by:
+
+* Quantity
+* GE value
+* HA value
+* Stackable-ness
+
+<p align="center">
+  <img src="docs/item-filters.png" alt="An item in a group with its filter icons and the quantity filter open" width="100%">
 </p>
