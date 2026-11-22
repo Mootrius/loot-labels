@@ -38,3 +38,15 @@ Once you've added an item into a group, you can make it so that labels only show
 <p align="center">
   <img src="docs/item-filters.png" alt="An item in a group with its filter icons and the quantity filter open" width="100%">
 </p>
+
+## Plugin settings
+
+You can also change various settings for the plugin, which will affect all groups. These settings include:
+
+* **Display**, changing the appearance of the labels themselves
+* **Font**, changing the appearance of the text within the labels
+* **Values**, affecting whether GE, HA, both, or no values are shown in the labels
+* **Despawn**, affecting whether despawn timers, either in pie or text form, are shown next to labels
+* **Ownership**, affecting whether world spawns or others' drops show up for you
+* **Menu**, altering the behavior of the right-click menu — including deprioritization, collapsing, and recoloring
+* **Hotkey**, allow you to set a hotkey that, when clicked, shows various otherwise hidden values based on your settings
