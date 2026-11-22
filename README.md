@@ -50,3 +50,7 @@ You can also change various settings for the plugin, which will affect all group
 * **Ownership**, affecting whether world spawns or others' drops show up for you
 * **Menu**, altering the behavior of the right-click menu — including deprioritization, collapsing, and recoloring
 * **Hotkey**, allow you to set a hotkey that, when clicked, shows various otherwise hidden values based on your settings
+
+## Plugin support
+
+To submit a bug, request a feature, or ask a question about the plugin, feel free to join my [Discord server](https://discord.gg/mootrius) and let me know how I can help!
